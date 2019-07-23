@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.intuit.quickbooks-online:oauth2-platform-api:jar-with-dependencies:4.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.intuit.quickbooks-online/oauth2-platform-api/4.0.1/7e769914db58dbca9f0ef6bd5c43d4e4f1873224/oauth2-platform-api-4.0.1-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.intuit.quickbooks-online/oauth2-platform-api/4.0.1/f7c31fd364921f4a69c462873b290dd4aaa6dc9c/oauth2-platform-api-4.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

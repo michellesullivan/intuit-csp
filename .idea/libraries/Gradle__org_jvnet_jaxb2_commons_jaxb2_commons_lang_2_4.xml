@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jvnet.jaxb2_commons:jaxb2-commons-lang:2.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.jaxb2_commons/jaxb2-commons-lang/2.4/41abf7d2eec9f3a25210129ab063b93016c6781f/jaxb2-commons-lang-2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.jaxb2_commons/jaxb2-commons-lang/2.4/4451e224ea556aec7561f13bac8df9d0b86c2ba3/jaxb2-commons-lang-2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

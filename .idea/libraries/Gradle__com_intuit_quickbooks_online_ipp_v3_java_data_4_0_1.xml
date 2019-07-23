@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.intuit.quickbooks-online:ipp-v3-java-data:4.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.intuit.quickbooks-online/ipp-v3-java-data/4.0.1/dcede6fc2c6bb07315fc13a34308e4906069048/ipp-v3-java-data-4.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.intuit.quickbooks-online/ipp-v3-java-data/4.0.1/fd402e0db39ffdf70521c04e77837ede37ceebac/ipp-v3-java-data-4.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: oauth.signpost:signpost-commonshttp4:1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/oauth.signpost/signpost-commonshttp4/1.2/1054da42a9c8e2acfbdf875cecebec047557a83f/signpost-commonshttp4-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/oauth.signpost/signpost-commonshttp4/1.2/eea410d2b96c86cf2e05602fe65cac67aaeff02b/signpost-commonshttp4-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

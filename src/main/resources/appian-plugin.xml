@@ -1,0 +1,17 @@
+<appian-plugin name="Zimpatica Connected System - Intuit" key="com.zimpatica.intuit">
+
+  <plugin-info>
+    <description>Zimpatica Connected System - Intuit</description>
+    <vendor name="Zimpatica" url="http://www.zimpatica.com"/>
+    <version>1.0.0.0</version>
+    <application-version min="7.6.0.4"/>
+  </plugin-info>
+
+  <connected-system-template key="IntuitConnectedSystem" name="IntuitConnectedSystem"
+                             class="com.zimpatica.intuit.templates.IntuitConnectedSystemTemplate">
+
+    <integration-template key="IntuitGetCompanyIntegrationTemplate" name="IntuitGetCompanyIntegrationTemplate"
+                          class="com.zimpatica.intuit.templates.IntuitGetCompanyIntegrationTemplate" />
+
+  </connected-system-template>
+</appian-plugin>
